@@ -1,0 +1,8 @@
+*.vscode
+*.idea
+tempCodeRunnerFile*
+Notes/
+Practice/
+*.jpg
+*.pdf
+static/
