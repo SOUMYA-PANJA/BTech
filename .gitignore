@@ -6,3 +6,6 @@ Practice/
 *.jpg
 *.pdf
 static/
+*.jped
+*.png
+*.gif
