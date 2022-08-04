@@ -1,5 +1,9 @@
 import java.util.*;
 
+/*
+1. Write a Java program to detect whether a number entered by the user is an integer or not.
+*/
+
 public class Question_1 {
     static void isInteger(float x){
         int i = (int)x;

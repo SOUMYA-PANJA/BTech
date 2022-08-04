@@ -1,5 +1,9 @@
 import java.util.Scanner;
 
+/*
+6. Write a Java program to find out whether a given number is greater than the user entered number or not.
+*/
+
 public class Question_6 {
     public static void main(String[] args) {
         int given_number = 13;

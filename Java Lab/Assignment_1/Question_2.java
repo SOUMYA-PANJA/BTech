@@ -1,5 +1,10 @@
 import java.util.*;
 
+/*
+2. Write a Java program that asks the user to enter his/her name and greets them
+with “Hello, you are coding for PCC-CS593 Lab.” message.
+*/
+
 public class Question_2 {
     static void greet(String name){
         System.out.println("Hello, "+name+". "+"You are coding for PCC-CS593 Lab");

@@ -1,6 +1,11 @@
 import java.lang.Math;
 import java.util.Scanner;
 
+/*
+4. Evaluate the following expressions using Java program by taking user inputs:
+((b^2- 4ac)+(b^2+ 4ac))^2 / 2ab
+*/
+
 public class Question_4 {
     static void evaluate(){
         Scanner sc = new Scanner(System.in);

@@ -1,5 +1,10 @@
 import java.util.*;
 
+/*
+3. Write a program to calculate the percentage of a given student in the 10th board exam.
+His marks from 5 subjects must be taken as input from the keyboard. (Marks are out of 100).
+*/
+
 public class Question_3 {
     static void percentage(){
         Scanner sc = new Scanner(System.in);

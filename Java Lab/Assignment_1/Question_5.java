@@ -1,5 +1,9 @@
 import java.util.Scanner;
 
+/*
+5. Write a java program to encrypt a grade by adding 8 to it. Decrypt it to show the correct grade.
+*/
+
 public class Question_5 {
     static char decrypt(char grade){
         for (int i = 0; i < 8;grade--,i++);
