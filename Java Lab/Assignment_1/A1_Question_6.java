@@ -1,0 +1,20 @@
+import java.util.Scanner;
+
+/*
+6. Write a Java program to find out whether a given number is greater than the user entered number or not.
+*/
+
+public class A1_Question_6 {
+    public static void main(String[] args) {
+        int given_number = 13;
+        Scanner sc = new Scanner(System.in);
+        System.out.print("Enter your number: ");
+        int user_number = sc.nextInt();
+        if(user_number < given_number){
+            System.out.println("The given number is greater then the user number.");
+        }
+        else{
+            System.out.println("The given number is not greater then the user number.");
+        }
+    }
+}
