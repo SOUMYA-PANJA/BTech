@@ -6,8 +6,11 @@ Practice/
 *.jpg
 *.pdf
 static/
-*.jped
+*.jpeg
 *.png
 *.gif
 out/
 *.iml
+*.dict
+*.mm
+data/
