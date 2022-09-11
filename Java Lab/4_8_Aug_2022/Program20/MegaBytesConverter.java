@@ -8,7 +8,9 @@ public class MegaBytesConverter {
   }
 
   public static void printMegaBytesAndKiloBytes(int kiloBytes) {
-    if (kiloBytes < 0) System.out.println("Invalid Value"); else if (
+    if (kiloBytes < 0)
+      System.out.println("Invalid Value");
+    else if (
       kiloBytes >= 0
     ) {
       long result = (long) ((long) kiloBytes / (long) 1024.0);
