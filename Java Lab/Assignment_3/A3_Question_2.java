@@ -9,14 +9,14 @@ public class A3_Question_2 {
     }
 
     static void anagram(char arr[], int i){
-        if (i == arr.length){
+        if (i == arr.length - 1){
             String s = new String(arr);
             System.out.println(s);
             return;
         }
         for (int j = i; j < arr.length; j++) {
             swap(arr, i, j);
-            anagram(arr, j+1);
+            anagram(arr, i+1);
             swap(arr, i, j);
         }
     }
