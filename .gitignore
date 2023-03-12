@@ -1,11 +1,11 @@
-*.vscode
-*.idea
-tempCodeRunnerFile*
 Notes/
 Practice/
 out/
 static/
 data/
+tempCodeRunnerFile*
+*.vscode
+*.idea
 *.jpg
 *.pdf
 *.jpeg
